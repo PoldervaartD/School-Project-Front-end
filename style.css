@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+  form {
+      text-align: center;
+}
+
+.navbarwidth {
+    width: 95%;
+}
+
+.container {
+	border-style: solid;
+}
+.row {
+	text-align: center;
+}
+
+.img-container {
+    text-align: center;
+    display: block;
+  }
